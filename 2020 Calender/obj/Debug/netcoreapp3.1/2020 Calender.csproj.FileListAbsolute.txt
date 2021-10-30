@@ -1,0 +1,13 @@
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\bin\Debug\netcoreapp3.1\2020 Calender.exe
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\bin\Debug\netcoreapp3.1\2020 Calender.deps.json
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\bin\Debug\netcoreapp3.1\2020 Calender.runtimeconfig.json
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\bin\Debug\netcoreapp3.1\2020 Calender.runtimeconfig.dev.json
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\bin\Debug\netcoreapp3.1\2020 Calender.dll
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\bin\Debug\netcoreapp3.1\2020 Calender.pdb
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\obj\Debug\netcoreapp3.1\2020 Calender.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\obj\Debug\netcoreapp3.1\2020 Calender.AssemblyInfoInputs.cache
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\obj\Debug\netcoreapp3.1\2020 Calender.AssemblyInfo.cs
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\obj\Debug\netcoreapp3.1\2020 Calender.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\obj\Debug\netcoreapp3.1\2020 Calender.dll
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\obj\Debug\netcoreapp3.1\2020 Calender.pdb
+C:\Users\Clearance Morumudi\source\repos\2020 Calender\2020 Calender\obj\Debug\netcoreapp3.1\2020 Calender.genruntimeconfig.cache
